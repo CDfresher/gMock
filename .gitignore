@@ -5,3 +5,6 @@ Makefile
 
 # Ignore the artifacts
 *.a
+.idea
+.vs
+cmake-build-debug
